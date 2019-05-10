@@ -1,7 +1,7 @@
 # Tool Name :- Tool Kit
-# Author :- Rajkumar Dusad
+# Author :- zaidhamidi
 # Date :- 28/4/2018
-# Powered By :- Aex Software's
+# Powered By :- blood
 
 import sys
 import os
